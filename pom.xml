@@ -8,7 +8,7 @@
 	<packaging>war</packaging>
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
-		<finalName>Sumathy</finalName>
+		<finalName>Sumathy_Sudar</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
